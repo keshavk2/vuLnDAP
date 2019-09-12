@@ -33,3 +33,5 @@ And if all goes well you'll get a vuLnDAP binary which you can run with:
 ```
 
 The web server starts up listening on port 9090 on all interfaces, this can be changed by updating the values in the webserver section of vulndap.cfg.
+
+Okok
